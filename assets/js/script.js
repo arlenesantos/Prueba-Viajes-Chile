@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
   // smooth scroll
-  $("a").click(function(event) {
+  $("a.scroll").click(function(event) {
     if (this.hash !== "") {
       event.preventDefault();
       var gato = this.hash;
@@ -11,8 +11,8 @@ $(document).ready(function(){
     }
   });
 
-  // tooltip
-  $('[data-toggle="tooltip"]').tooltip();
+  // tooltip en la sección de destacados
+  $('[data-toggle="tooltip"]').tooltip();  
 
 
 })
