@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    // smooth scroll
+  // smooth scroll
   $("a").click(function(event) {
     if (this.hash !== "") {
       event.preventDefault();
@@ -10,6 +10,9 @@ $(document).ready(function(){
       }, 800);
     }
   });
+
+  // tooltip
+  $('[data-toggle="tooltip"]').tooltip();
 
 
 })

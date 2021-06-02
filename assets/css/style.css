@@ -44,6 +44,7 @@ hr{
     color: #ffffff;
 }
 
+/*Sección destacados */
 /* Pantallas de tamaño medio */
 @media (min-width: 768px) {
     .card img{
