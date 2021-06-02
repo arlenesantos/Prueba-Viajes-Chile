@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1{
+    font-size: 1.5em;
+}
+
+hr{
+    border: 1px solid #17a2b8;
+}
+
+.logo{
+    width: 2em;
+}
+
+.nombre-navbar{
+    vertical-align: middle;
+}
+
+.carousel{
+    margin-top: 60px;
+}
+
+.bg-black{
+    background-color: #000000;
+}
+
+.footer-title{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.footer-icons{
+    font-size: 1.5em;    
+}
+
+.footer-icons a , .footer-icons a:visited{
+    color: #ffffff;
+}
+
+
+
