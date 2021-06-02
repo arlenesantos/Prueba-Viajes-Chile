@@ -44,5 +44,21 @@ hr{
     color: #ffffff;
 }
 
+/* Pantallas de tamaño medio */
+@media (min-width: 768px) {
+    .card img{
+        max-height: 93px;
+    }
+    .card-title{
+        font-size: 18px;
+    }
+}
+
+/* Pantallas de tamaños grandes */
+@media (min-width: 992px) {
+    .card img{
+        max-height: 133px;
+    }
+}
 
 
