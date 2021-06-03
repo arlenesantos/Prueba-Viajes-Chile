@@ -1,7 +1,7 @@
 Proyecto: Prueba Viajes Chile
 Prueba final del modulo 1 - Fundamentos del Desarrollo de Páginas Web, curso Desarrollo de Aplicaciones Full Stack JavaScript Trainee
 
-Link Github Pages: 
+Link Github Pages: https://github.com/arlenesantos/Prueba-Viajes-Chile.git
 
 Unidades: HTML, CSS, Bootstrap, JavaScript, Git y Github.
 
