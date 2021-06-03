@@ -53,6 +53,9 @@ hr{
     .card-title{
         font-size: 18px;
     }
+    .footer-icons{
+        font-size: 2em;    
+    }
 }
 
 /* Pantallas de tamaños grandes */

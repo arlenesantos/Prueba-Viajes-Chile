@@ -14,5 +14,4 @@ $(document).ready(function(){
   // tooltip en la sección de destacados
   $('[data-toggle="tooltip"]').tooltip();  
 
-
 })
